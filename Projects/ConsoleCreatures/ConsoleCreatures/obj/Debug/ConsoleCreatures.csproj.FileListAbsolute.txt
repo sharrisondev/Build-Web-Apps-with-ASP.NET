@@ -1,0 +1,8 @@
+C:\Users\Shaun\Desktop\ConsoleCreatures\ConsoleCreatures\bin\Debug\ConsoleCreatures.exe.config
+C:\Users\Shaun\Desktop\ConsoleCreatures\ConsoleCreatures\bin\Debug\ConsoleCreatures.exe
+C:\Users\Shaun\Desktop\ConsoleCreatures\ConsoleCreatures\bin\Debug\ConsoleCreatures.pdb
+C:\Users\Shaun\Desktop\ConsoleCreatures\ConsoleCreatures\obj\Debug\ConsoleCreatures.csproj.AssemblyReference.cache
+C:\Users\Shaun\Desktop\ConsoleCreatures\ConsoleCreatures\obj\Debug\ConsoleCreatures.csproj.CoreCompileInputs.cache
+C:\Users\Shaun\Desktop\ConsoleCreatures\ConsoleCreatures\obj\Debug\ConsoleCreatures.exe
+C:\Users\Shaun\Desktop\ConsoleCreatures\ConsoleCreatures\obj\Debug\ConsoleCreatures.pdb
+C:\Users\Shaun\Desktop\ConsoleCreatures\ConsoleCreatures\obj\Debug\ConsoleCreatures.exe.config
