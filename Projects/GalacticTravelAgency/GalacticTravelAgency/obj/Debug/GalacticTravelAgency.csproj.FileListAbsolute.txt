@@ -1,0 +1,8 @@
+C:\Users\Shaun\Desktop\GalacticTravelAgency\GalacticTravelAgency\bin\Debug\GalacticTravelAgency.exe.config
+C:\Users\Shaun\Desktop\GalacticTravelAgency\GalacticTravelAgency\bin\Debug\GalacticTravelAgency.exe
+C:\Users\Shaun\Desktop\GalacticTravelAgency\GalacticTravelAgency\bin\Debug\GalacticTravelAgency.pdb
+C:\Users\Shaun\Desktop\GalacticTravelAgency\GalacticTravelAgency\obj\Debug\GalacticTravelAgency.csproj.AssemblyReference.cache
+C:\Users\Shaun\Desktop\GalacticTravelAgency\GalacticTravelAgency\obj\Debug\GalacticTravelAgency.csproj.CoreCompileInputs.cache
+C:\Users\Shaun\Desktop\GalacticTravelAgency\GalacticTravelAgency\obj\Debug\GalacticTravelAgency.exe
+C:\Users\Shaun\Desktop\GalacticTravelAgency\GalacticTravelAgency\obj\Debug\GalacticTravelAgency.pdb
+C:\Users\Shaun\Desktop\GalacticTravelAgency\GalacticTravelAgency\obj\Debug\GalacticTravelAgency.exe.config
