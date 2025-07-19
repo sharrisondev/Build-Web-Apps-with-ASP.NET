@@ -1,0 +1,8 @@
+C:\Users\Shaun\Desktop\MoneyMaker\MoneyMaker\bin\Debug\MoneyMaker.exe.config
+C:\Users\Shaun\Desktop\MoneyMaker\MoneyMaker\bin\Debug\MoneyMaker.exe
+C:\Users\Shaun\Desktop\MoneyMaker\MoneyMaker\bin\Debug\MoneyMaker.pdb
+C:\Users\Shaun\Desktop\MoneyMaker\MoneyMaker\obj\Debug\MoneyMaker.csproj.AssemblyReference.cache
+C:\Users\Shaun\Desktop\MoneyMaker\MoneyMaker\obj\Debug\MoneyMaker.csproj.CoreCompileInputs.cache
+C:\Users\Shaun\Desktop\MoneyMaker\MoneyMaker\obj\Debug\MoneyMaker.exe
+C:\Users\Shaun\Desktop\MoneyMaker\MoneyMaker\obj\Debug\MoneyMaker.pdb
+C:\Users\Shaun\Desktop\MoneyMaker\MoneyMaker\obj\Debug\MoneyMaker.exe.config
