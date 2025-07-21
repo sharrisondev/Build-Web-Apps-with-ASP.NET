@@ -1,0 +1,8 @@
+C:\Users\Shaun\Documents\GitHub\Build-Web-Apps-with-ASP.NET\Projects\MadLibs\MadLibs\bin\Debug\MadLibs.exe.config
+C:\Users\Shaun\Documents\GitHub\Build-Web-Apps-with-ASP.NET\Projects\MadLibs\MadLibs\bin\Debug\MadLibs.exe
+C:\Users\Shaun\Documents\GitHub\Build-Web-Apps-with-ASP.NET\Projects\MadLibs\MadLibs\bin\Debug\MadLibs.pdb
+C:\Users\Shaun\Documents\GitHub\Build-Web-Apps-with-ASP.NET\Projects\MadLibs\MadLibs\obj\Debug\MadLibs.csproj.AssemblyReference.cache
+C:\Users\Shaun\Documents\GitHub\Build-Web-Apps-with-ASP.NET\Projects\MadLibs\MadLibs\obj\Debug\MadLibs.csproj.CoreCompileInputs.cache
+C:\Users\Shaun\Documents\GitHub\Build-Web-Apps-with-ASP.NET\Projects\MadLibs\MadLibs\obj\Debug\MadLibs.exe
+C:\Users\Shaun\Documents\GitHub\Build-Web-Apps-with-ASP.NET\Projects\MadLibs\MadLibs\obj\Debug\MadLibs.pdb
+C:\Users\Shaun\Documents\GitHub\Build-Web-Apps-with-ASP.NET\Projects\MadLibs\MadLibs\obj\Debug\MadLibs.exe.config
