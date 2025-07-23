@@ -1,0 +1,8 @@
+C:\Users\Shaun\Documents\GitHub\Build-Web-Apps-with-ASP.NET\Projects\SpaceExpeditionBooleanAdventure\SpaceExpeditionBooleanAdventure\bin\Debug\SpaceExpeditionBooleanAdventure.exe.config
+C:\Users\Shaun\Documents\GitHub\Build-Web-Apps-with-ASP.NET\Projects\SpaceExpeditionBooleanAdventure\SpaceExpeditionBooleanAdventure\bin\Debug\SpaceExpeditionBooleanAdventure.exe
+C:\Users\Shaun\Documents\GitHub\Build-Web-Apps-with-ASP.NET\Projects\SpaceExpeditionBooleanAdventure\SpaceExpeditionBooleanAdventure\bin\Debug\SpaceExpeditionBooleanAdventure.pdb
+C:\Users\Shaun\Documents\GitHub\Build-Web-Apps-with-ASP.NET\Projects\SpaceExpeditionBooleanAdventure\SpaceExpeditionBooleanAdventure\obj\Debug\SpaceExpeditionBooleanAdventure.csproj.AssemblyReference.cache
+C:\Users\Shaun\Documents\GitHub\Build-Web-Apps-with-ASP.NET\Projects\SpaceExpeditionBooleanAdventure\SpaceExpeditionBooleanAdventure\obj\Debug\SpaceExpeditionBooleanAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Shaun\Documents\GitHub\Build-Web-Apps-with-ASP.NET\Projects\SpaceExpeditionBooleanAdventure\SpaceExpeditionBooleanAdventure\obj\Debug\SpaceExpeditionBooleanAdventure.exe
+C:\Users\Shaun\Documents\GitHub\Build-Web-Apps-with-ASP.NET\Projects\SpaceExpeditionBooleanAdventure\SpaceExpeditionBooleanAdventure\obj\Debug\SpaceExpeditionBooleanAdventure.pdb
+C:\Users\Shaun\Documents\GitHub\Build-Web-Apps-with-ASP.NET\Projects\SpaceExpeditionBooleanAdventure\SpaceExpeditionBooleanAdventure\obj\Debug\SpaceExpeditionBooleanAdventure.exe.config
